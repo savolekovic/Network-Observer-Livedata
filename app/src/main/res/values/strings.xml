@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">network-observer-with-live-data</string>
+    <string name="online">Connected to network</string>
+    <string name="offline">No available network</string>
+</resources>
